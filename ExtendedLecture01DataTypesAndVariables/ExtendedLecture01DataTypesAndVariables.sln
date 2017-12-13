@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01_IntegerTypes", "p01_IntegerTypes\p01_IntegerTypes.csproj", "{76E514B8-C93B-44B8-AA48-1C515B6A09C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p02_RealNumberTypes", "p02_RealNumberTypes\p02_RealNumberTypes.csproj", "{3E4537F5-970D-402D-9E97-4676BB26765F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p03_BigPower", "p03_BigPower\p03_BigPower.csproj", "{C5740DA7-C890-465E-A91D-2E9311C0CE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E514B8-C93B-44B8-AA48-1C515B6A09C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E514B8-C93B-44B8-AA48-1C515B6A09C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E514B8-C93B-44B8-AA48-1C515B6A09C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E514B8-C93B-44B8-AA48-1C515B6A09C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4537F5-970D-402D-9E97-4676BB26765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4537F5-970D-402D-9E97-4676BB26765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4537F5-970D-402D-9E97-4676BB26765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4537F5-970D-402D-9E97-4676BB26765F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5740DA7-C890-465E-A91D-2E9311C0CE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5740DA7-C890-465E-A91D-2E9311C0CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5740DA7-C890-465E-A91D-2E9311C0CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5740DA7-C890-465E-A91D-2E9311C0CE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
